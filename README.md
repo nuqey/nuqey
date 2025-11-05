@@ -11,10 +11,10 @@
 * [**currency-converter**](https://github.com/nuqxo/currency-converter) – realtime api-based converter
 * [**to-do-list**](https://github.com/nuqxo/to-do-list) – simple and smooth task flow
 
-🧠 learning:
+learning:
 `js` `lua` `html` `css` `api integration`
 
-📍 based in 🇧🇷, aiming global
+📍 based in 🇧🇷 · building globally
 
 ---
 
@@ -24,3 +24,4 @@
 `roblox studio` `ui/ux`
 
 ---
+crafting code. chasing calm.
