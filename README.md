@@ -4,12 +4,12 @@
 
 💻 currently building:
 
-* [**nuqxo.dev**](#) – my personal website
-* [**focus.lua**](#) – cli pomodoro for productivity
-* [**weather-aesthetic**](#) – minimal weather app
-* [**pomodoro-focus**](#) – clean ui pomodoro web app
-* [**currency-converter**](#) – realtime api-based converter
-* [**to-do-list**](#) – simple and smooth task flow
+* [**nuqxo.dev**](https://github.com/nuqxo/nuqxo.dev) – my personal website
+* [**focus.lua**](https://github.com/nuqxo/focus.lua) – cli pomodoro for productivity
+* [**weather-aesthetic**](https://github.com/nuqxo/weather-aesthetic) – minimal weather app
+* [**pomodoro-focus**](https://github.com/nuqxo/pomodoro-focus) – clean ui pomodoro web app
+* [**currency-converter**](https://github.com/nuqxo/currency-converter) – realtime api-based converter
+* [**to-do-list**](https://github.com/nuqxo/to-do-list) – simple and smooth task flow
 
 🧠 learning:
 `js` `lua` `html` `css` `api integration`
