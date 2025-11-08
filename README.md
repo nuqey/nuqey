@@ -14,8 +14,6 @@
 learning:
 `js` `lua` `html` `css` `api integration`
 
-📍 based in 🇧🇷 · building globally
-
 ---
 
 #### 💫 tech stack
