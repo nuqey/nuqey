@@ -10,6 +10,7 @@
 * [**pomodoro-focus**](https://github.com/nuqxo/pomodoro-focus) – clean ui pomodoro web app
 * [**currency-converter**](https://github.com/nuqxo/currency-converter) – realtime api-based converter
 * [**to-do-list**](https://github.com/nuqxo/to-do-list) – simple and smooth task flow
+* [**oblivion**](https://github.com/nuqxo/oblivion) – dark minimal dashboard
 
 learning:
 `js` `lua` `html` `css` `api integration`
