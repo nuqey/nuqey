@@ -1,4 +1,4 @@
-### 🪞 hey, i’m **nuqxy**
+### 🪞 hey, i’m **nuqey**
 lua & web dev — crafting clean code and calm aesthetics.
 
 ---
