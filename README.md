@@ -4,7 +4,6 @@ lua & web dev — crafting clean code and calm aesthetics.
 ---
 
 ### 💻 currently building
-- 🌐 **[nuqxo.dev](https://github.com/nuqxo/nuqxo.github.io)** – personal website
 - ⏱️ **[focus.lua](https://github.com/nuqxo/focus.lua)** – cli pomodoro for productivity
 - 🌤️ **[weather-aesthetic](https://github.com/nuqxo/weather-aesthetic)** – minimal weather app
 - 🍅 **[pomodoro-focus](https://github.com/nuqxo/pomodoro-focus)** – clean ui pomodoro web app
