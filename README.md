@@ -14,6 +14,7 @@ lua & web dev — crafting clean code and calm aesthetics.
 - 💸 **[budget-tracker](https://github.com/nuqxo/budget-tracker)** – minimal expense tracker panel
 - 🕒 **[study-tracker](https://github.com/nuqxo/study-tracker)** – minimal study session tracker panel
 - 🔐 **[password-generator](https://github.com/nuqxo/password-generator)** – minimal secure password maker panel
+- 🎨 **[palette-printer](https://github.com/nuqxo/palette-printer)** – ultra-clean color ramp generator (tints & shades)
 
 ---
 
