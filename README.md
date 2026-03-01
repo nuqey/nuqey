@@ -4,17 +4,17 @@ lua & web dev — crafting clean code and calm aesthetics.
 ---
 
 ### 💻 currently building
-- ⏱️ **[focus.lua](https://github.com/nuqxo/focus.lua)** – cli pomodoro for productivity
-- 🌤️ **[weather-aesthetic](https://github.com/nuqxo/weather-aesthetic)** – minimal weather app
-- 🍅 **[pomodoro-focus](https://github.com/nuqxo/pomodoro-focus)** – clean ui pomodoro web app
-- 💱 **[currency-converter](https://github.com/nuqxo/currency-converter)** – realtime api-based converter
-- ✅ **[to-do-list](https://github.com/nuqxo/to-do-list)** – smooth task flow manager
-- 🌑 **[oblivion](https://github.com/nuqxo/oblivion)** – dark minimal dashboard
-- 📜 **[habit-tracker](https://github.com/nuqxo/habit-tracker)** – no distraction habit panel
-- 💸 **[budget-tracker](https://github.com/nuqxo/budget-tracker)** – minimal expense tracker panel
-- 🕒 **[study-tracker](https://github.com/nuqxo/study-tracker)** – minimal study session tracker panel
-- 🔐 **[password-generator](https://github.com/nuqxo/password-generator)** – minimal secure password maker panel
-- 🎨 **[palette-printer](https://github.com/nuqxo/palette-printer)** – ultra-clean color ramp generator (tints & shades)
+- ⏱️ **[focus.lua](https://github.com/nuqey/focus.lua)** – cli pomodoro for productivity
+- 🌤️ **[weather-aesthetic](https://github.com/nuqey/weather-aesthetic)** – minimal weather app
+- 🍅 **[pomodoro-focus](https://github.com/nuqey/pomodoro-focus)** – clean ui pomodoro web app
+- 💱 **[currency-converter](https://github.com/nuqey/currency-converter)** – realtime api-based converter
+- ✅ **[to-do-list](https://github.com/nuqey/to-do-list)** – smooth task flow manager
+- 🌑 **[oblivion](https://github.com/nuqey/oblivion)** – dark minimal dashboard
+- 📜 **[habit-tracker](https://github.com/nuqey/habit-tracker)** – no distraction habit panel
+- 💸 **[budget-tracker](https://github.com/nuqey/budget-tracker)** – minimal expense tracker panel
+- 🕒 **[study-tracker](https://github.com/nuqey/study-tracker)** – minimal study session tracker panel
+- 🔐 **[password-generator](https://github.com/nuqey/password-generator)** – minimal secure password maker panel
+- 🎨 **[palette-printer](https://github.com/nuqey/palette-printer)** – ultra-clean color ramp generator (tints & shades)
 
 ---
 
